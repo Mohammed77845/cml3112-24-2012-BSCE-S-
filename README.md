@@ -5,6 +5,7 @@
 - Course: CML3112 — Engineering Data Analysis
 - Programme: BSCE
 - Student Number: 24/2012/BSCE-S
+- Student name : MOHAMMED AMER 
 
 ## Engineering Problem
 
